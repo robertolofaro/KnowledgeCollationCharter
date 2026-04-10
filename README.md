@@ -33,3 +33,12 @@ Let me write this as a proper charter document — something usable by others as
 **Rawls also does something the other two don't**: the difference principle applied to information access gives the democratization commitment an ethical foundation that is not just "it would be nice to share" but "inequality of access to structured analysis is only justified if it produces better outcomes for those with least access." That is a stronger claim, and it shapes the dissemination ethics section meaningfully.
 
 The charter is CC BY-SA 4.0 by design — it can be adapted, translated, and extended, as long as derivatives remain open. That felt consistent with everything it is trying to say.
+
+====
+
+As part of the preparation of the article that was published on 2026-04-10 with the title [Electoral law and social contract](https://robertolofaro.com/index.php?page=649), agreed with Claude proposal to prepare a 5-points summary, focused specifically on the domain of that article (the potential new electoral law for Italy).
+
+The summary documenti is represented in this image:
+
+![5-point summary of the KnowledgeCollation Charter 1.0, focused on sidebar for the article on Electoral law and social contract published on robertolofaro.com](https://robertolofaro.wordpress.com/wp-content/uploads/2026/04/20260410_fiveprinciples.png)
+
