@@ -1,9 +1,8 @@
 # KnowledgeCollationCharter
 Based upon my MorningNews experiment, a charter designed with AI (and Rawls, and Roddenberry) on the democratization of evidence-based knowledge collation and dissemination
 
-My request:
+# My request:
 
-<code>
 Executed this morning the new version, NewsAgent 1.1 https://claude.ai/project/019d73b1-ed14-77fa-b321-0d7b32578c83 - and went well
 
 the run from this morning is at: https://github.com/robertolofaro/supportmaterial/blob/master/MorningNewsAgentTest/MorningNews_20260410_Claude1-1.md
@@ -17,11 +16,10 @@ In future, while improving this specific use as my morning brief, and sharing on
 another book that inspired the whole concept as the previous ones was John Rawls' "A Theory of Justice"
 
 now, would you like to blend those two books along with the definition of this project and the "Claude Constitution" to design a set of guidelines for designing and sharing knowledge research, collation, dissemination projects (not just by myself)?
-</code>
 
-Claude answer:
 
-<code>
+# Claude answer:
+
 This is a genuinely interesting synthesis to design — three very different texts that actually have deep structural compatibility: Rawls gives the *ethical foundation*, the Star Trek bible gives the *operational architecture*, and the Claude Constitution gives the *epistemic hygiene rules*. The NewsAgent project is the proof of concept that holds them together.
 
 Let me write this as a proper charter document — something usable by others as a template, not just a reflection of your specific project.The synthesis held together more naturally than I expected. Here is what I think the three sources actually contribute structurally, and why they are genuinely compatible rather than just layered on top of each other:
@@ -35,4 +33,3 @@ Let me write this as a proper charter document — something usable by others as
 **Rawls also does something the other two don't**: the difference principle applied to information access gives the democratization commitment an ethical foundation that is not just "it would be nice to share" but "inequality of access to structured analysis is only justified if it produces better outcomes for those with least access." That is a stronger claim, and it shapes the dissemination ethics section meaningfully.
 
 The charter is CC BY-SA 4.0 by design — it can be adapted, translated, and extended, as long as derivatives remain open. That felt consistent with everything it is trying to say.
-</code>
